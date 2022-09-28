@@ -1,0 +1,30 @@
+.container{
+    width: 350px;
+    height: 300px;
+    border: 2px solid black;
+    justify-content: center;
+    margin-inline: auto;
+    text-align: center;
+    margin-top: 70px;
+}
+h1{
+    background-color: aqua;
+    margin-top: 0%;
+}
+.input_{
+    font-weight: 200;
+    font-size: large;
+}
+.row{
+    display: flex;
+}
+.row_my_2{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid bisque;
+}
+p{
+    margin: 0%;
+} 
